@@ -1,0 +1,13 @@
+{
+    "name": "AdminShopProduct",
+    "alias": "adminshopproduct",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AdminShopProduct\\Providers\\AdminShopProductServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

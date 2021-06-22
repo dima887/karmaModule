@@ -1,0 +1,16 @@
+{
+    "Home": true,
+    "User": true,
+    "Layouts": true,
+    "AdminHomes": true,
+    "AdminShopHome": true,
+    "AdminShopCategory": true,
+    "AdminShopBrand": true,
+    "AdminShopProduct": true,
+    "ShopCategory": true,
+    "ShopProduct": true,
+    "ShopSidebar": true,
+    "BlogPost": true,
+    "BlogComment": true,
+    "Blog": true
+}

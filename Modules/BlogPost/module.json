@@ -1,0 +1,13 @@
+{
+    "name": "BlogPost",
+    "alias": "blogpost",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BlogPost\\Providers\\BlogPostServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

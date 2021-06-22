@@ -1,0 +1,13 @@
+{
+    "name": "AdminShopCategory",
+    "alias": "adminshopcategory",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AdminShopCategory\\Providers\\AdminShopCategoryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

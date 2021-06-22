@@ -1,0 +1,13 @@
+{
+    "name": "ShopSidebar",
+    "alias": "shopsidebar",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ShopSidebar\\Providers\\ShopSidebarServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

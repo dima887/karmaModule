@@ -1,0 +1,13 @@
+{
+    "name": "ShopCategory",
+    "alias": "shopcategory",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ShopCategory\\Providers\\ShopCategoryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
